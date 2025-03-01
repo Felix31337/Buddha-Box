@@ -8,8 +8,8 @@
 // @match        *://*/*
 // @grant        GM_registerMenuCommand
 // @grant        GM_openInTab
-// @updateURL    https://raw.githubusercontent.com/Qiulock/Scripts/master/ScriptFinder.js
-// @downloadURL  https://raw.githubusercontent.com/Qiulock/Scripts/master/ScriptFinder.js
+// @updateURL    https://raw.githubusercontent.com/Qiulock/Scripts/refs/heads/main/ScriptFinder.js
+// @downloadURL  https://raw.githubusercontent.com/Qiulock/Scripts/refs/heads/main/ScriptFinder.js
 // ==/UserScript==
  
 (function() {
