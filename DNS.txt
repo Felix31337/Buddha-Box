@@ -35,5 +35,6 @@
 ||excfgfile-vivofs-asia.vivo.com.cn^
 ||bhwkju.vivo.com^
 #自定
+||stat.tiara.kakao.com^
 ||isecure.vivo.com.cn^
 ||appcontentapi.vivo.com.cn^
