@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  获取当前页面的主域名并打开 GreasyFork 查找脚本
 // @author       Felix
-// @license      Felix
+// @license      AGPL-3.0
 // @match        *://*/*
 // @grant        GM_registerMenuCommand
 // @grant        GM_openInTab
