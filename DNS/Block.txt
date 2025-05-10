@@ -25,6 +25,10 @@
 ||vcardsdkservice.vivo.com.cn^
 ||adsstatic.vivo.com.cn^
 ||brandadsstatic.vivo.com.cn^
+#bilibili
+||*pcdn*.biliapi.net^$important
+||mcdn.bilivideo.cn^$important
+||szbdyd.com^$important
 # 存疑
 ||stappupgrade.vivo.com.cn^
 ||browserconf.vivo.com.cn^
